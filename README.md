@@ -15,6 +15,12 @@ The project itself was the creation of yaml code which acts as the API for an or
   4. updating an order
 By using HTTP verbs like, GET, PUT, POST and DELETE these categories were given purpose. 
 
+# testing
+1. download the project file, preferably open it with the PyCharm IDE because it is connected to Swagger tooling. 
+2. open the openapi.yaml file
+3. click chrome button which will open the Orders API within the swagger website to view API in a more human-readable and visually appealing way
+4. OR go into the terminal, run the commands 'npm install' and 'npm run' a localhost should open up.
+
 # future
 There is much further to go into this project by writing more code to actually utilize the API beyond basic tooling creation, however, my original goal was to better understand how API's work and I believe that this was achieved. I can create a front-end interface for interacting with the API. I can also create more end points like merging 2 orders together. 
 
